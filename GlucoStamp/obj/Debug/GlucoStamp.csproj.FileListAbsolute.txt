@@ -80,3 +80,5 @@ C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\bin\Microsoft.Owin.
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Debug\GlucoStamp.csprojResolveAssemblyReference.cache
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Debug\GlucoStamp.dll
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Debug\GlucoStamp.pdb
+C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Debug\GlucoStamp.Migrations.InitalModel.resources
+C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Debug\GlucoStamp.csproj.GenerateResource.Cache
