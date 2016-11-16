@@ -79,3 +79,6 @@ C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\bin\Microsoft.Owin.
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Release\GlucoStamp.dll
 C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Release\GlucoStamp.pdb
+C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Release\GlucoStamp.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Release\GlucoStamp.Migrations.InitalModel.resources
+C:\Users\Tomasz_Matuszczak\EduProjects\GlucoStamp\GlucoStamp\obj\Release\GlucoStamp.csproj.GenerateResource.Cache
